@@ -5,3 +5,5 @@
 
 # Pick a binary file (*.bin) and do the CRC-32 value extraction
 # CRC-32 value can be HEX value or decimal value (unsigned integer).
+
+![alt tag](https://github.com/crazylittleJ/crc32tool/blob/master/Crc32_win32_demo.jpg)
