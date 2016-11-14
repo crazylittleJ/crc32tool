@@ -1,4 +1,5 @@
 # crc32tool
+CRC-32 value of a binary file (*.bin) calculator
 
 # Operation System Platform : 
 Windows 7 64 bit
