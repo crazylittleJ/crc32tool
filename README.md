@@ -13,3 +13,6 @@ CRC-32 value can be HEX value or decimal value (unsigned integer).
 # Demo :
 
 ![alt tag](https://github.com/crazylittleJ/crc32tool/blob/master/Crc32_win32_demo.jpg)
+
+# Win_x86_exe download link :
+![alt tag](https://github.com/crazylittleJ/crc32tool/blob/master/exe_x86_win/crc32cal_Tool.exe)
