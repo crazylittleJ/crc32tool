@@ -16,3 +16,9 @@ CRC-32 value can be HEX value or decimal value (unsigned integer).
 
 # Win_x86_exe download link :
 [Download link](https://github.com/crazylittleJ/crc32tool/blob/master/exe_x86_win/crc32cal_Tool.exe)
+
+# .NET Framework download website : 
+[Download link](https://msdn.microsoft.com/zh-tw/library/5a4x27ek(v=vs.110).aspx)
+
+# Visual C++ Redistributable for Visual Studio 2015 download website : 
+[Download link](https://www.microsoft.com/en-us/download/details.aspx?id=48145)
